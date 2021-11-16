@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QLXe.XE">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgACABAAAAgBIAKAAAEABAAgAEAAAAIARAAAAA=</HashCode>
+      <FileName>XE\XE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.DanhSachCongViecXe" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAACAAAAGAAkAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>XE\DanhSachXe\DanhSachCongViecXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.DanhSachXeForm" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAIA+AAIrAAGQCAIAAGMASSgMJIgDACIZAAAQQ=</HashCode>
+      <FileName>XE\DanhSachXe\DanhSachXeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.UpdateDeleteXeForm" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAABAiAIQJAAGACACAACAAJIIAAACAEAAAAIAEA=</HashCode>
+      <FileName>XE\DanhSachXe\UpdateDeleteXeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.QuanLyXeForm" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QFDIQjhJA+RAprEEnQiAKgAGEC7KAOBIgCQCAbAMAA0=</HashCode>
+      <FileName>XE\QuanLyXeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.themXeForm" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIADBJAiBABIEEiAiACAADAEJIAAAAQgADACAYAAk=</HashCode>
+      <FileName>XE\themXeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ThongKeForm" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAgCEBAAAACADAAAACMAAQAAAAIAAAAQAAAEg=</HashCode>
+      <FileName>XE\ThongKeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ThoClass">
+    <Position X="8.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAQAEAABAAAEAEAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>THO\Tho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ThemTho" Collapsed="true">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAABICACgBACAECAAAICAAAAAAAgAAAAAkhAAAQ=</HashCode>
+      <FileName>THO\ThemTho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ListTho" Collapsed="true">
+    <Position X="6.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBDAAAAAAuAAADAAAQCADAAGEAyIAAQoAGAAAcACAEI=</HashCode>
+      <FileName>THO\ListTho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.Tho.QuanLyThoForm" Collapsed="true">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBjAAAQBIuACojACCQCAgAAGAEyAADQoADAQA8hCgEY=</HashCode>
+      <FileName>THO\QuanLyThoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.Tho.ThongKeThoForm" Collapsed="true">
+    <Position X="6.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAgCAAAAAAAADAAAACEAAQACAAAAACCQAAAAA=</HashCode>
+      <FileName>THO\ThongKeThoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.UpdateTho" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQgAAAABJCACABASAACAAAACAAAAAAQgABAAAEhEAAQ=</HashCode>
+      <FileName>THO\UpdateTho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.XoaTho" Collapsed="true">
+    <Position X="4" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UBBACAAAAuAAADAAAQCAgAAGABygAAQoACIAAcACAEI=</HashCode>
+      <FileName>THO\XoaTho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.CONGVIEC">
+    <Position X="9.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAACAEIgAAAAAAAAgAAQggAgA=</HashCode>
+      <FileName>CONGVIEC\CONGVIEC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.CongViec.DanhSachCongViecForm" Collapsed="true">
+    <Position X="7" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBDAAAAAA2ACADAAAQSABAAGEAiAAAQoACAAAcICAEY=</HashCode>
+      <FileName>CONGVIEC\DanhSachCongViecForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.CongViec.DanhSachXeCongViecForm" Collapsed="true">
+    <Position X="7" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADQAhAAAuAAojEAGQCAAEAGAAzCAAAIACACAaAAgAQ=</HashCode>
+      <FileName>CONGVIEC\DanhSachXeCongViecForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.CongViec.QuanLyCongViecForm" Collapsed="true">
+    <Position X="4.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBDAAAAAA2ACgjAACQCAAAAGAEiCADQIADACC8IAgkQ=</HashCode>
+      <FileName>CONGVIEC\QuanLyCongViecForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ThemCongViecForm" Collapsed="true">
+    <Position X="4.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAhhAKACQJEAEAiASFAmAAAAAAQAAJAEAAAAgUA=</HashCode>
+      <FileName>CONGVIEC\ThemCongViecForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ThongKeCongViecForm" Collapsed="true">
+    <Position X="7" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAAAAAAACkCAAAAAQCAAAICEAAYAAABAEAACQAAAEA=</HashCode>
+      <FileName>CONGVIEC\ThongKeCongViecForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.CongViec.UpdateCongViecForm" Collapsed="true">
+    <Position X="4.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABhAKACQJEAAAiAQBAmAAAAAAQAQIAAAAAAgEA=</HashCode>
+      <FileName>CONGVIEC\UpdateCongViecForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.NV">
+    <Position X="6" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAAQI=</HashCode>
+      <FileName>NV-HD\NV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.HDThue">
+    <Position X="9.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACAAAAAAkBACAAAAAAEAAAAIAAAAgAIAAAAAQA=</HashCode>
+      <FileName>NV-HD\HDThue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.HDChoThue">
+    <Position X="7.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACAAAAAAEBACAAAAAAEAAAAIAAAAgAIAAAAAQA=</HashCode>
+      <FileName>NV-HD\HDChoThue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.AddContractForm" Collapsed="true">
+    <Position X="4" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gVgSCAARAXCAABAAKEqADmEiEQAAAiAYCBAgQYBAAOA=</HashCode>
+      <FileName>NV-HD\AddContract\AddContractForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.DanhSachXe" Collapsed="true">
+    <Position X="2.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAAAeAAADAACQKABAAGEAwCAAAIACACAaAAAAA=</HashCode>
+      <FileName>NV-HD\AddContract\DanhSachXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.EditContractChoThue" Collapsed="true">
+    <Position X="2.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAAAAXBgEhAAQEKEDCIiEgAAAEAAEBAAAYBASEA=</HashCode>
+      <FileName>NV-HD\EditContract\EditContractChoThue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.EditContractForm" Collapsed="true">
+    <Position X="4" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADQAAAAAeAAADAACQKEACECAQwiIOAAACACAYCAAAA=</HashCode>
+      <FileName>NV-HD\EditContract\EditContractForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.EditMyInfoForm" Collapsed="true">
+    <Position X="6" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKAAQBACBAAhAAAAGEBAACEAAAEABIAgAAAABAYAQ=</HashCode>
+      <FileName>NV-HD\EditMyInfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.NhanVienHopDongForm" Collapsed="true">
+    <Position X="4" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQAgAAECBACgAAACiAAgAGAAAMAAABSEAAAABAAAA=</HashCode>
+      <FileName>NV-HD\NhanVienHopDongForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.RemoveContract" Collapsed="true">
+    <Position X="2.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABQAAAQEeAAADAACQKEACECAQwCACAAACACAYCABAA=</HashCode>
+      <FileName>NV-HD\RemoveContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ShowListContract" Collapsed="true">
+    <Position X="2.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADQAAAAAeQAADABCQKEACEGASwDACAAACQCAZCEAAA=</HashCode>
+      <FileName>NV-HD\ShowListContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ChiTietHopDong" Collapsed="true">
+    <Position X="4" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAgACAAQBQAAACAoAAiEQAgABCAACAgAQACAEA=</HashCode>
+      <FileName>HOPDONG\ChiTietHopDong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.DanhSachHopDong" Collapsed="true">
+    <Position X="6" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADQAAAAAeQAgjAACQKAACECASwDACCgACQCAJCEAAQ=</HashCode>
+      <FileName>HOPDONG\DanhSachHopDong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLXe.ThongKeHopDong" Collapsed="true">
+    <Position X="7.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAwhAAAACEAAAAAAAKAAAACEAAQAAAAAEQAAQAAAAA=</HashCode>
+      <FileName>HOPDONG\ThongKeHopDong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
